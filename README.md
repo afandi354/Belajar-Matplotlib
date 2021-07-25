@@ -5,3 +5,4 @@
 * **Pie Chart** : https://youtu.be/TcodxOSxnIo
 * **Line Chart** : https://youtu.be/2H9ns0PhVf8
 * **Multiple Line Chart** : https://youtu.be/SohpmBr_l-0
+* **Scatter Plots** : https://youtu.be/AOwNcsQBSE4
